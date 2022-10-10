@@ -1,0 +1,9 @@
+ul {
+    background-color: blue;
+}
+
+li {
+    display: inline;
+    margin: 20px;
+    
+}
